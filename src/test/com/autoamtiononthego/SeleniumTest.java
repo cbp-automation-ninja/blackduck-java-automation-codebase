@@ -18,6 +18,7 @@ import java.io.IOException;
 import java.net.URL;
 import java.nio.file.Paths;
 
+public gitPAT = 'gha_fdsfdsf4324sfdsfsdfsff';
 public class SeleniumTest {
 
     WebDriver driver;
